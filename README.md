@@ -1,2 +1,2 @@
 # Tik-tak-toe
-Basic Anroid Tik-Tak-Toe game Developed in Anroid studio java, Contribute and make changes as per Requirement.
+TikTakToe is a classic Android game offering a simple yet addictive experience. Play against the computer or a friend in a seamless, easy-to-use interface and enjoy endless fun with every match.
