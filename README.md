@@ -2,13 +2,6 @@
 
 A classic Tic-Tac-Toe game for Android! Play against a friend or challenge the AI in this simple yet addictive game.
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" alt="Home Screen" width="200"/>
-  <img src="screenshots/gameplay.png" alt="Gameplay Screen" width="200"/>
-  <img src="screenshots/winner.png" alt="Winner Screen" width="200"/>
-</p>
 
 ## 📝 Features
 
@@ -30,5 +23,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/tic-tac-toe-android.git
+   git clone https://github.com/aniketdobriyal/tic-tac-toe-android.git
    cd tic-tac-toe-android
